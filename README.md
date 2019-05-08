@@ -33,11 +33,11 @@ Users may register for a mailing list.
 
 **SOME STUFF ABOUT FLASK LOCALHOST AND GUNICORN:**
 
-After switching tabs, you may get the error 500, when trying to find a listing, to solve this, you have to restart the app.
+- After switching tabs, you may get the error 500, when trying to find a listing, to solve this, you have to restart the app.
 
-Do not use the back button on the browser. Instead you have to physically alter the link for it to work. E.g if you want to go back the the home page from http://127.0.0.1:5000/form you have to physically change it to http://127.0.0.1:5000 
+- Do not use the back button on the browser. Instead you have to physically alter the link for it to work. E.g if you want to go back the the home page from http://127.0.0.1:5000/form you have to physically change it to http://127.0.0.1:5000 
 
-If ever get 500 error you should go to http://127.0.0.1:5000 or what ever the original link was or restart the server by doing ctrl + c in the terminal and retyping the last command of the respective runtype.
+- If ever get 500 error you should go to http://127.0.0.1:5000 or what ever the original link was or restart the server by doing ctrl + c in the terminal and retyping the last command of the respective runtype.
 
 **Deploying on heroku:**
 - Clone my repository with git clone repository link.
