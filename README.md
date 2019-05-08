@@ -1,7 +1,7 @@
-**Saleem Ali: 816007643**
-**Simon Ramdath: 816009535**
-**Joshua O'Brien: 816001354**
-**Azeem Wahaid: 813117236**
+- **Saleem Ali: 816007643**
+- **Simon Ramdath: 816009535**
+- **Joshua O'Brien: 816001354**
+- **Azeem Wahaid: 813117236**
 
 **Description:**
 Enter accurate information into the search forms. The homepage form searches for any twitter account and displays the last 30 tweets and a graph showing likes vs time.
