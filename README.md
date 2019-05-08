@@ -51,7 +51,7 @@ Deploying on heroku:
 -"heroku open"
 
 If you want to see what the online database looks like:
-Please do not fuck with it.
+Please do not alter anything.
 
 Database details
 ['MYSQL_HOST'] = 'remotemysql.com'             
